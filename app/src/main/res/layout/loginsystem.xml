@@ -86,13 +86,17 @@
             android:layout_height="wrap_content"
             android:text="清除" />
 
-        <TextView
-            android:id="@+id/textView4"
+        <Button
+            android:id="@+id/button5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:textColor="#03A9F4"
-            android:textSize="30sp" />
+            android:text="註冊帳號" />
+
+        <TextView
+            android:id="@+id/tv8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
 
     </LinearLayout>
 
